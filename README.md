@@ -84,6 +84,3 @@ Ce projet nous a permis de :
 
 Ce TPE a été une expérience enrichissante, tant sur le plan technique que sur le plan humain. Il nous a permis de consolider nos acquis, de découvrir des méthodes de travail collaboratives et de mieux comprendre l’importance de la rigueur algorithmique.
 
----
-
-Souhaitez-vous que je vous aide à rédiger une version PDF ou une présentation PowerPoint à partir de ce rapport ?
